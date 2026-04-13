@@ -1,0 +1,14 @@
+1. INITIALIZATION
+The command is      git init
+
+2. STAGGING
+The command is   git add <filename>
+git add .(if you want to stage all file)
+
+3. COMMIT
+The command is   git commit -m "first commit"
+
+4. PUSH
+The command is    git push -u origin main  (sunsequently you can be using only git push to push your features)
+
+NOTE= Ife you want to see your commit message use  git log
