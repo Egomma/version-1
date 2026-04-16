@@ -33,3 +33,9 @@ footer{
     padding: 2rem;
     
 }
+.name{
+    background-color: red;
+    color: white;
+    padding: 4rem 0;
+    font-size: x-large;
+}
